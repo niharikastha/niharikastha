@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Full stack Web Developement.
 - 💞️ I’m looking to collaborate on ...
 - 📫 contact me : LinkedIn : https://www.linkedin.com/in/astha-niharika-838996205/ 
-                  Instagram : niharika_astha_20
 
 <!---
 niharikastha/niharikastha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
