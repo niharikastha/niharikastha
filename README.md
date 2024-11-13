@@ -14,9 +14,9 @@ I'm a full-stack developer specializing in  React, Node.js, Sailsjs, Wordpress ,
 
 ### 🚀 Projects & Work
 Here are some projects I'm proud of:
-- **[Construction Management Website](https://github.com/niharikastha/construction_backend)**: Brief description (e.g., A Trello clone built with MERN stack).
-- **[Trello Clone](https://github.com/niharikastha/trello-frontend)**: Brief description (e.g., A construction management site with real-time project tracking).
-- **[RPM device Integration](https://github.com/niharikastha/rpm_device-connect)**: Brief description (e.g., Healthcare platform integrating RPM devices).
+- **[Construction Management Website](https://github.com/niharikastha/construction_backend)**: A Trello clone built with MERN stack.
+- **[Trello Clone](https://github.com/niharikastha/trello-frontend)**: A construction management site to facilitate working of the manager , supervisor and civil engineer.
+- **[RPM device Integration](https://github.com/niharikastha/rpm_device-connect)**: Healthcare platform integrating RPM devices.
 
 ---
 
